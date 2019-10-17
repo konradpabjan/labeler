@@ -1,4 +1,4 @@
-Automatically adds or removes labels from issues. You define the labels you'd like to add and/or remove in the YAML file. You can also specify if an issue should be ignored if an assignee has been added.
+Automatically adds or removes labels from issues. You define the labels you'd like to add and/or remove in the YAML file. You can also specify if an issue should be ignored if an assignee has been added. 
 
 To add it to your workflow:
 
